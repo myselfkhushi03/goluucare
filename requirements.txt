@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+cryptography
+httpx
+python-multipart
